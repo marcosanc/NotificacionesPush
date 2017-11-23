@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NotificacionesPush.iml" filepath="$PROJECT_DIR$/NotificacionesPush.iml" />
+      <module fileurl="file://C:\Users\PLANETMEDIA\Documents\Marco\Otros\pushnotification\NotificacionesPush\NotificacionesPush.iml" filepath="C:\Users\PLANETMEDIA\Documents\Marco\Otros\pushnotification\NotificacionesPush\NotificacionesPush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\PLANETMEDIA\Documents\Marco\Otros\pushnotification\NotificacionesPush\app\app.iml" filepath="C:\Users\PLANETMEDIA\Documents\Marco\Otros\pushnotification\NotificacionesPush\app\app.iml" />
+    </modules>
+  </component>
+</project>
